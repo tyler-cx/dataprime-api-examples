@@ -18,3 +18,7 @@ Install deps:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Notes
+
+- The functionality for running the query resides in the dataprimeQuery.py file. I also have a few helper functions that are for parsing JSON and dates.
